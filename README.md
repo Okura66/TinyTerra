@@ -1,6 +1,6 @@
 # TinyTerra
 
-TinyTerra is a system designed to control the environmental conditions inside a greenhouse or terrarium to maintain optimal conditions for plant growth. It measures the temperature and humidity inside the greenhouse/terrarium using a DHT22 sensor and uses this data to turn on/off different devices. The system allows the user to configure the optimal temperature and humidity ranges for different times of the day, as well as the intervals at which the pump should be activated.
+TinyTerra is a system designed to control the environmental conditions inside a greenhouse or terrarium to maintain optimal conditions for plants and animals. It measures the temperature and humidity inside the greenhouse/terrarium using a DHT22 sensor and uses this data to turn on/off different devices. The system allows the user to configure the optimal temperature and humidity ranges for different times of the day, as well as the intervals at which the pump should be activated.
 
 ## Try it on Wokwi
 
