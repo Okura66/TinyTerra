@@ -66,7 +66,7 @@ TinyTerra has a configuration mode that allows the user to adjust the following 
 - Sunrise hour
 - Sunset hour
 
-The configuration mode is accessed by pressing the back button for 3 seconds. In configuration mode, the LCD screen displays the name of the configurable item and its current value. The user can then use the potentiometer to adjust the value and the validation button to save the new value.
+The configuration mode is accessed by pressing the validation button on start OR by pressing ValidationButton + BackButton. In configuration mode, the LCD screen displays the name of the configurable item and its current value. The user can then use the potentiometer to adjust the value and the validation button to save the new value.
 
 ## EEPROM
 
